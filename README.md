@@ -27,7 +27,6 @@ A web-based ice cream e-commerce application built with PHP, MySQL, HTML, CSS, a
  
 ```
 frosty_scoops/
-├── images/
 ├── db.php
 ├── login.php
 ├── register.php
