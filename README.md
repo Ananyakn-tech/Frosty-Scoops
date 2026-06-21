@@ -38,4 +38,4 @@ frosty_scoops/
 └── style.css
 ```
 # Author
-Ananya K N
+Ananya 
