@@ -37,4 +37,5 @@ frosty_scoops/
 ├── script.js
 └── style.css
 ```
- 
+# Author
+Ananya K N
